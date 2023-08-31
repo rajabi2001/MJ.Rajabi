@@ -2,21 +2,21 @@
     <h1>Welcome to my Github page</h1>
 </div>
 
-## Hey, This is Mohammad Javad Rajabi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+## Hey there, This is Mohammad Javad Rajabi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=500&center=true&vCenter=true&width=435&lines=BSC.+of+Computer+Engineering;Amirkabir+University+of+Technology;AI+%26+ML+Enthusiast)](https://github.com/rajabi2001)    
 </div>
 
-# About me 
-
-I am Mohammad Javad Rajabi, a last-year Computer Engineering student at the Amirkabir University of Technology with a strong passion for Computer Vision and Machine/Deep Learning.
-
-## Programming Languages, Technologies and Tools 
-<p align="center"> 
-<a href="https://github.com/rajabi2001" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,latex,django,flask,arduino,c,docker,git,linux&perline=18" /> </a>
-</p>
+- 🏫 I'm currently a senior undergraduate student, studying Computer Engineering at the Amirkabir University of Technology.
+- 📚 My research interest fields are:
+  - Computer Vision
+  - Machine Learning
+  - Explainable AI
+  - Image Processing
+  - Trustworthy ML
+  - Generative Models
 
 ## Contact Me
 
