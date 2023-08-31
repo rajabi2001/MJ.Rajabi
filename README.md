@@ -13,8 +13,8 @@
 - 📚 My research interest fields are:
   - Computer Vision
   - Machine Learning
-  - Explainable AI
   - Image Processing
+  - Explainable AI
   - Trustworthy ML
   - Generative Models
 
