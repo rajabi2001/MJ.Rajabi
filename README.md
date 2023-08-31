@@ -8,3 +8,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=500&center=true&vCenter=true&width=435&lines=BSC.+of+Computer+Engineering;Amirkabir+University+of+Technology;AI+%26+ML+Enthusiast)](https://github.com/rajabi2001)    
 </div>
+
+# About me 
+
+I am Mohammad Javad Rajabi, a last-year Computer Engineering student at the Amirkabir University of Technology with a strong passion for Computer Vision and Machine/Deep Learning.
