@@ -12,3 +12,8 @@
 # About me 
 
 I am Mohammad Javad Rajabi, a last-year Computer Engineering student at the Amirkabir University of Technology with a strong passion for Computer Vision and Machine/Deep Learning.
+
+## Programming Languages, Technologies and Tools 
+<p align="center"> 
+<a href="https://github.com/rajabi2001" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,latex,django,flask,arduino,c,docker,git,linux&perline=18" /> </a>
+</p>
