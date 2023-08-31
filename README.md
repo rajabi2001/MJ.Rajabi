@@ -23,17 +23,17 @@
 Feel free to contact me via the following links:
 
 <div align="center">
-        <a href="https://www.linkedin.com/in/rajabi2001/">
-            <img alt="Mohammad Javad Rajabi's LinkedIn" width="32px" src="https://img.icons8.com/fluency/344/linkedin.png" />
+        <a href="https://scholar.google.com/citations?hl=en&user=nJAyYVYAAAAJ">
+            <img alt="Mohammad Javad Rajabi's Google Scholar" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/240px-Google_Scholar_logo.svg.png" width=32/>
+        </a>
+        <a href="https://rajabi2001.github.io/">
+            <img alt="Mohammad Javad Rajabi's personal webpage" src="https://img.icons8.com/fluency/50/000000/resume-website.png" width=32/>
         </a>
         <a href="mailto:mj.rajabi2001@gmail.com">
             <img alt="Mohammad Javad Rajabi's Email" width="32px" src="https://img.icons8.com/color/344/apple-mail.png" />
         </a>
-        <a href="https://www.instagram.com/rajabi2001/">
-            <img alt="Mohammad Javad Rajabi's instagram account" src="https://img.icons8.com/fluency/50/000000/instagram-new.png" width=32/>
-        </a>
-        <a href="https://rajabi2001.github.io/">
-            <img alt="Mohammad Javad Rajabi's personal webpage" src="https://img.icons8.com/fluency/50/000000/resume-website.png" width=32/>
+        <a href="https://www.linkedin.com/in/rajabi2001/">
+            <img alt="Mohammad Javad Rajabi's LinkedIn" width="32px" src="https://img.icons8.com/fluency/344/linkedin.png" />
         </a>
 </div>
 
