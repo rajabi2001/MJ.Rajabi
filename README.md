@@ -14,14 +14,17 @@
   - Computer Vision
   - Machine Learning
   - Image Processing
+  - Generative Models
   - Explainable AI
   - Trustworthy ML
-  - Generative Models
+  
+## Programming Languages, Technologies and Tools 
+<p align="center"> 
+<a href="https://github.com/rajabi2001" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,latex,django,flask,arduino,c,docker,git,linux&perline=18" /> </a>
+</p>
 
 ## Get in touch
-
 Feel free to contact me via the following links:
-
 <div align="center">
         <a href="https://rajabi2001.github.io/">
             <img alt="Mohammad Javad Rajabi's personal webpage" src="https://ssl.gstatic.com/atari/images/sociallinks/github_white_28dp.png" width=32/>
