@@ -2,7 +2,7 @@
     <h1>Welcome to my Github page</h1>
 </div>
 
-## Hey there, This is Mohammad Javad Rajabi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+## Hey there, This is Javad! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 <div align="center">
   
